@@ -1,6 +1,7 @@
-Hi 👋 My name is Catherine Naa Larteley Awuletey <br/>
+<h1>Hi 👋 My name is Catherine Naa Larteley Awuletey</h1> <br/>
 
 Web Developer <br/>
+
 I’m Catherine Naa Larteley Awuletey, a front-end developer with a deep passion for technology and problem-solving. With a foundation in computer engineering and specialized experience in React.js, Next.js, Tailwind CSS, and Python, I am currently transitioning into full stack development to broaden my skill set and impact. Driven by a desire to make a difference, I recently completed the #100DaysOfCode challenge, where I honed my frontend development skills and began mentoring others inspired by my journey. I am also actively preparing for software engineering roles within globally recognized companies and aiming to secure a position. My goal is to continue expanding my knowledge in areas like data-driven systems and applications, positioning myself as a versatile software engineer.  <br/>
 🌍  I'm based in Ghana <br/>
 🖥️  See my portfolio at [My Portfolio](http://cattiesportfolio.netlify.app/)<br/> ✉️  You can contact me at [tech.cattiecodes@gmail.com](mailto:tech.cattiecodes@gmail.com)<br/>

@@ -27,7 +27,7 @@
 
 
 🖥️  See my portfolio at [My Portfolio](http://cattiesportfolio.netlify.app/)<br/> ✉️  You can contact me at [tech.cattiecodes@gmail.com](mailto:tech.cattiecodes@gmail.com)<br/>
-🚀  I'm currently working on [Charm Me Up Finance Management]([http://crypto-bucks.netlify.app/](https://mylashfinance.netlify.app/)) <br/>
+🚀  I'm currently working on [Charm Me Up Finance Management](https://mylashfinance.netlify.app/)) <br/>
 
 🤝  I'm open to collaborating on Web development projects<br/>
 

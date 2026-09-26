@@ -1,12 +1,60 @@
 <h1>Hi 👋 My name is Catherine Naa Larteley Awuletey</h1> <br/>
 
-Web Developer <br/>
+<h1>Software Engineer | Full-Stack Developer | Tech Creator</h1> <br/>
 
-I’m Catherine Naa Larteley Awuletey, a front-end developer with a deep passion for technology and problem-solving. With a foundation in computer engineering and specialized experience in React.js, Next.js, Tailwind CSS, and Python, I am currently transitioning into full stack development to broaden my skill set and impact. Driven by a desire to make a difference, I recently completed the #100DaysOfCode challenge, where I honed my frontend development skills and began mentoring others inspired by my journey. I am also actively preparing for software engineering roles within globally recognized companies and aiming to secure a position. My goal is to continue expanding my knowledge in areas like data-driven systems and applications, positioning myself as a versatile software engineer.  <br/>
-🌍  I'm based in Ghana <br/>
+I'm a Computer Engineering graduate and software developer passionate about building useful, user-focused digital products and continuously expanding my engineering skills.
+
+My background is primarily in frontend development, with experience building applications using React, Next.js, JavaScript, Tailwind CSS, and REST APIs. I'm currently expanding into full-stack development and Python, with a growing interest in data engineering, machine learning, and AI-powered applications.
+
+I enjoy turning ideas into working products, learning in public, and sharing my journey as I grow as a developer..  <br/>
+
+<h2>🛠️ Tech Stack</h2>
+<h1>Frontend</h1>
+
+<li>
+  <ul>HTML5</ul>
+  <ul>CSS3</ul>
+  <ul>Javascript</ul>
+  <ul>React.js</ul>
+  <ul>Next.js</ul>
+  <ul>Tailwind CSS</ul>
+  <ul>Bootstrp</ul>
+</li>
+
+<h1>Backend & Data</h1>
+
+<li>
+  <ul>Python</ul>
+  <ul>Node.js</ul>
+  <ul>Express.js</ul>
+  <ul>Rest APIs</ul>
+  <ul>Supabase</ul>
+  <ul>MongoDB/ul>
+  <ul>PostgreSQL</ul>
+</li>
+
+<h1>Tools</h1>
+<li>
+  <ul>Git & Github</ul>
+  <ul>VS Code</ul>
+  <ul>Postman</ul>
+  <ul>Figma</ul>
+  <ul>Netlify</ul>
+</li>
+
+<h1>What I'm Working On</h1>
+<li>
+  <ul>🔨Building full-stack applications with Next.js, Python, and Supabase</ul>
+  <ul>🐍Strengthening my Python skills through hands-on projects</ul>
+  <ul>🧠Learning Data Structures & Algorithms</ul>
+  <ul>🤖 Exploring AI, machine learning, and data engineering</ul>
+  <ul💻 Building projects that solve practical problems</ul>
+</li>
+
+
 🖥️  See my portfolio at [My Portfolio](http://cattiesportfolio.netlify.app/)<br/> ✉️  You can contact me at [tech.cattiecodes@gmail.com](mailto:tech.cattiecodes@gmail.com)<br/>
 🚀  I'm currently working on [Crypto Bucks](http://crypto-bucks.netlify.app/) <br/>
-🧠  I'm learning Data Structures and Algorithms in python <br/>
+
 🤝  I'm open to collaborating on Web development projects<br/>
 
   <h1>Skills</h1>  

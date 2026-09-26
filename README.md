@@ -1,55 +1,29 @@
 <h1>Hi 👋 My name is Catherine Naa Larteley Awuletey</h1> <br/>
+<h2>Software Engineer | Full-Stack Developer | Tech Creator</h2>
 
-<h1>Software Engineer | Full-Stack Developer | Tech Creator</h1> <br/>
+<p> I'm a Computer Engineering graduate and software developer passionate about building useful, user-focused digital products and continuously expanding my engineering skills. </p>
 
-I'm a Computer Engineering graduate and software developer passionate about building useful, user-focused digital products and continuously expanding my engineering skills.
+<p> My background is primarily in frontend development, with experience building applications using React, Next.js, JavaScript, Tailwind CSS, and REST APIs. I'm currently expanding into full-stack development and Python, with a growing interest in data engineering, machine learning, and AI-powered applications. </p>
 
-My background is primarily in frontend development, with experience building applications using React, Next.js, JavaScript, Tailwind CSS, and REST APIs. I'm currently expanding into full-stack development and Python, with a growing interest in data engineering, machine learning, and AI-powered applications.
-
-I enjoy turning ideas into working products, learning in public, and sharing my journey as I grow as a developer..  <br/>
+<p> I enjoy turning ideas into working products, learning in public, and sharing my journey as I grow as a developer. </p>
 
 <h2>🛠️ Tech Stack</h2>
-<h1>Frontend</h1>
 
-<li>
-  <ul>HTML5</ul>
-  <ul>CSS3</ul>
-  <ul>Javascript</ul>
-  <ul>React.js</ul>
-  <ul>Next.js</ul>
-  <ul>Tailwind CSS</ul>
-  <ul>Bootstrp</ul>
-</li>
+<h3>Frontend</h3>
 
-<h1>Backend & Data</h1>
+<ul> <li>HTML5</li> <li>CSS3</li> <li>JavaScript</li> <li>React.js</li> <li>Next.js</li> <li>Tailwind CSS</li> <li>Bootstrap</li> </ul>
 
-<li>
-  <ul>Python</ul>
-  <ul>Node.js</ul>
-  <ul>Express.js</ul>
-  <ul>Rest APIs</ul>
-  <ul>Supabase</ul>
-  <ul>MongoDB/ul>
-  <ul>PostgreSQL</ul>
-</li>
+<h3>Backend & Data</h3>
 
-<h1>Tools</h1>
-<li>
-  <ul>Git & Github</ul>
-  <ul>VS Code</ul>
-  <ul>Postman</ul>
-  <ul>Figma</ul>
-  <ul>Netlify</ul>
-</li>
+<ul> <li>Python</li> <li>Node.js</li> <li>Express.js</li> <li>REST APIs</li> <li>Supabase</li> <li>MongoDB</li> <li>PostgreSQL</li> </ul>
 
-<h1>What I'm Working On</h1>
-<li>
-  <ul>🔨Building full-stack applications with Next.js, Python, and Supabase</ul>
-  <ul>🐍Strengthening my Python skills through hands-on projects</ul>
-  <ul>🧠Learning Data Structures & Algorithms</ul>
-  <ul>🤖 Exploring AI, machine learning, and data engineering</ul>
-  <ul💻 Building projects that solve practical problems</ul>
-</li>
+<h3>Tools</h3>
+
+<ul> <li>Git & GitHub</li> <li>VS Code</li> <li>Postman</li> <li>Figma</li> <li>Netlify</li> </ul>
+
+<h2>🚀 What I'm Working On</h2>
+
+<ul> <li>🔨 Building full-stack applications with Next.js, Python, and Supabase</li> <li>🐍 Strengthening my Python skills through hands-on projects</li> <li>🧠 Learning Data Structures & Algorithms</li> <li>🤖 Exploring AI, machine learning, and data engineering</li> <li>💻 Building projects that solve practical problems</li> </ul>
 
 
 🖥️  See my portfolio at [My Portfolio](http://cattiesportfolio.netlify.app/)<br/> ✉️  You can contact me at [tech.cattiecodes@gmail.com](mailto:tech.cattiecodes@gmail.com)<br/>
